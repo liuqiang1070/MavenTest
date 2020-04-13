@@ -1,2 +1,0 @@
-# MavenTest
-Test for Maven
